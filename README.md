@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @amino-stack
-
 - 🌱 I’m currently learning ...
--
 - 📫 How to reach me dm me on email mb112176@gmail.com...
 
 <!---
